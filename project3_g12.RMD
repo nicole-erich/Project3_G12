@@ -26,7 +26,7 @@ All teammates have access to Gurobi through RStudio.
 #install.packages('slam')
 #install.packages('c:\\gurobi702\\win64\\R\\gurobi_7.0-2.zip', repos=NULL)
 
-# Nicole Set directory and load
+# Set directory and load
 #setwd("~/5 - MSBA/2017 01 Optimization/Group Projects/Project 3")
 load("data.rdata")
 
