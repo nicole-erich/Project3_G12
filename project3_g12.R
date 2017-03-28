@@ -12,7 +12,11 @@
 #install.packages('slam')
 #install.packages('c:\\gurobi702\\win64\\R\\gurobi_7.0-2.zip', repos=NULL)
 
+<<<<<<< HEAD
 # Assumes data is in the same folder
+=======
+#setwd("~/5 - MSBA/2017 01 Optimization/Group Projects/Project 3")
+>>>>>>> origin/master
 load("data.rdata")
 
 # -------------------- #
