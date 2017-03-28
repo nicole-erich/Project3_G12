@@ -2,10 +2,8 @@
 # Mac install gurobi
 # -------------------- #
 
-# load("~/Downloads/data.rdata") # Ann Path
+#install.packages('slam')
 # install.packages('/Library/gurobi702/mac64/R/gurobi_7.0-2.tgz', repos=NULL,type="source")
-# change the directory if you are not using MAX OS
-# install.packages("glmnet", repos = "http://cran.us.r-project.org")
 
 # -------------------- #
 # Windows install gurobi
@@ -14,7 +12,7 @@
 #install.packages('slam')
 #install.packages('c:\\gurobi702\\win64\\R\\gurobi_7.0-2.zip', repos=NULL)
 
-#setwd("~/5 - MSBA/2017 01 Optimization/Group Projects/Project 3") # Nicole Path
+# Assumes data is in the same folder
 load("data.rdata")
 
 # -------------------- #
