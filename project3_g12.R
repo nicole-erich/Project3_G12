@@ -14,7 +14,7 @@
 #install.packages('slam')
 #install.packages('c:\\gurobi702\\win64\\R\\gurobi_7.0-2.zip', repos=NULL)
 
-#setwd("~/5 - MSBA/2017 01 Optimization/Group Projects/Project 3") # Nicole Path
+#setwd("~/5 - MSBA/2017 01 Optimization/Group Projects/Project 3")
 load("data.rdata")
 
 # -------------------- #
